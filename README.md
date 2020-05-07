@@ -11,9 +11,9 @@ This is a python application that detects and identifies the fake or real news.
 
 Paste the news:
 
-![News Output](./Screenshots/news.png)
+![News Output](./static/Screenshots/news.png)
 
 
 Press 'check' to predict the news:
 
-![Prediction Output](./Screenshots/predict.png)
+![Prediction Output](./static/Screenshots/predict.png)
